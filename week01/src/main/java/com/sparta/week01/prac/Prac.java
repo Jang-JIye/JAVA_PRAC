@@ -10,6 +10,7 @@ public class Prac {
         System.out.println( myAge == 20); //true
         System.out.println( myAge != 20); //false
 
+
     }
 }
 
